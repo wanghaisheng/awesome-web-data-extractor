@@ -363,6 +363,8 @@ Outsourcing/Offshoring Information and Resources
 http://www.OutsourcingOffshore.us/    
 Privacy Resources    
 http://www.PrivacyResources.info/    
+ProxyCrawl crawling and scraping tools
+https://proxycrawl.com
 Reference Resources    
 http://www.ReferenceResources.info/    
 Research Resources    
